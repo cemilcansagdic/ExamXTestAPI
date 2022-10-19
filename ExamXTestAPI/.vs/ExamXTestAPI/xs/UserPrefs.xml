@@ -1,0 +1,69 @@
+﻿<Properties StartupConfiguration="{6DA1F9A4-B397-4C54-BF7C-763BF8FE5DC7}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ExamXTestAPI PreferredExecutionTarget="/Applications/Safari.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/cemilcansagdic/Projects/ExamXTestAPI/ExamXTestAPI/Controllers/HomeController.cs" relfile="ExamXTestAPI/Controllers/HomeController.cs" line="196" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExamXTestAPI/Models/EFModels/TeacherStudents.cs">
+    <Files>
+      <File FileName="ExamXTestAPI/Models/EFModels/ExamXContext.cs" Line="34" Column="1" />
+      <File FileName="ExamXTestAPI/Models/EFModels/QuizResult.cs" Line="17" Column="30" />
+      <File FileName="ExamXTestAPI/Models/HTMLHelperModels/QuizSubmit.cs" Line="28" Column="18" />
+      <File FileName="ExamXTestAPI/Models/EFModels/PotentialAnswer.cs" Line="21" Column="1" />
+      <File FileName="ExamXTestAPI/Models/EFModels/AnsweredQuestion.cs" Line="19" Column="43" />
+      <File FileName="ExamXTestAPI/Models/EFModels/Question.cs" Line="21" Column="1" />
+      <File FileName="ExamXTestAPI/Models/Result/Result.cs" Line="18" Column="1" />
+      <File FileName="ExamXTestAPI/Models/EFModels/IEntity.cs" Line="9" Column="1" />
+      <File FileName="ExamXTestAPI/Models/EFModels/Subject.cs" Line="17" Column="1" />
+      <File FileName="ExamXTestAPI/Models/EFModels/Topic.cs" Line="13" Column="41" />
+      <File FileName="ExamXTestAPI/Models/EFModels/User.cs" Line="15" Column="31" />
+      <File FileName="ExamXTestAPI/Models/Result/UserResult.cs" Line="9" Column="1" />
+      <File FileName="ExamXTestAPI/Startup.cs" Line="66" Column="32" />
+      <File FileName="ExamXTestAPI/Program.cs" Line="16" Column="1" />
+      <File FileName="ExamXTestAPI/Models/EFModels/Teacher.cs" Line="12" Column="1" />
+      <File FileName="ExamXTestAPI/Models/EFModels/Student.cs" Line="9" Column="1" />
+      <File FileName="ExamXTestAPI/Models/HTMLHelperModels/StudentResultsRequest.cs" Line="8" Column="43" />
+      <File FileName="ExamXTestAPI/Models/EFModels/LoginLog.cs" Line="20" Column="10" />
+      <File FileName="ExamXTestAPI/Migrations/ExamXContextModelSnapshot.cs" Line="367" Column="1" />
+      <File FileName="ExamXTestAPI/Migrations/20221011111616_12.cs" Line="1" Column="1" />
+      <File FileName="ExamXTestAPI/Migrations/20221010144249_11.cs" Line="1" Column="1" />
+      <File FileName="ExamXTestAPI/Models/EFModels/TeacherSubject.cs" Line="17" Column="1" />
+      <File FileName="ExamXTestAPI/Migrations/20221011114537_13.cs" Line="1" Column="1" />
+      <File FileName="ExamXTestAPI/Controllers/HomeController.cs" Line="157" Column="43" />
+      <File FileName="ExamXTestAPI/Migrations/20221011133853_14.cs" Line="9" Column="29" />
+      <File FileName="ExamXTestAPI/Models/EFModels/TeacherStudents.cs" Line="27" Column="1" />
+      <File FileName="ExamXTestAPI/Migrations/20221017122614_15.cs" Line="1" Column="1" />
+      <File FileName="ExamXTestAPI/Migrations/20221017123404_16.cs" Line="1" Column="1" />
+      <File FileName="ExamXTestAPI/Controllers/WeatherForecastController.cs" Line="12" Column="27" />
+      <File FileName="ExamXTestAPI/Migrations/20221018091017_2.cs" Line="1" Column="1" />
+      <File FileName="ExamXTestAPI/Models/DTO/StudentSubjectsDTO.cs" Line="17" Column="1" />
+      <File FileName="ExamXTestAPI/Migrations/20221018215019_4.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ExamXTestAPI" expanded="True">
+            <Node name="ExamXTestAPI" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="EFModels" expanded="True">
+                  <Node name="TeacherStudents.cs" selected="True" />
+                </Node>
+                <Node name="HTMLHelperModels" expanded="True" />
+                <Node name="Result" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

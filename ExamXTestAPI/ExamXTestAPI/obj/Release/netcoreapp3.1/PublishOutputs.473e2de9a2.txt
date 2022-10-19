@@ -1,0 +1,7 @@
+/Users/cemilcansagdic/Projects/ExamXTestAPI/ExamXTestAPI/obj/Release/netcoreapp3.1/PubTmp/Out/ExamXTestAPI
+/Users/cemilcansagdic/Projects/ExamXTestAPI/ExamXTestAPI/obj/Release/netcoreapp3.1/PubTmp/Out/appsettings.Development.json
+/Users/cemilcansagdic/Projects/ExamXTestAPI/ExamXTestAPI/obj/Release/netcoreapp3.1/PubTmp/Out/appsettings.json
+/Users/cemilcansagdic/Projects/ExamXTestAPI/ExamXTestAPI/obj/Release/netcoreapp3.1/PubTmp/Out/ExamXTestAPI.dll
+/Users/cemilcansagdic/Projects/ExamXTestAPI/ExamXTestAPI/obj/Release/netcoreapp3.1/PubTmp/Out/ExamXTestAPI.deps.json
+/Users/cemilcansagdic/Projects/ExamXTestAPI/ExamXTestAPI/obj/Release/netcoreapp3.1/PubTmp/Out/ExamXTestAPI.runtimeconfig.json
+/Users/cemilcansagdic/Projects/ExamXTestAPI/ExamXTestAPI/obj/Release/netcoreapp3.1/PubTmp/Out/ExamXTestAPI.pdb
